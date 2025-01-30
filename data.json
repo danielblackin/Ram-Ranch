@@ -1,0 +1,18 @@
+{
+    "water_intake": {
+        "2025-01-30": 201874.0
+    },
+    "teeth_brushing": {
+        "2025-01-30": 2
+    },
+    "showers": {
+        "2025-01-30": true
+    },
+    "strava": {},
+    "streaks": {
+        "current": 0,
+        "best": 0,
+        "teeth_current": 1,
+        "teeth_best": 1
+    }
+}
